@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Ukur titik henti & pulihkan lingkungan (clone → /app, restore_env, audit --fase L)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L backend inti (indexes, /api/enums nilai hidup, cache master, products.line_code, users.allowed_line_codes)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L backend dokumen: penyaring lini + assert_can_touch + snapshot di 12 daftar & 11 jalur tulis (stamp_doc)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L bukti: migrasi idempotent + laporan · gate INV-LINE-01/02 self-test 15/15 · POC 40/40 · terdaftar di gate.sh",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L dokumentasi & seed: ENTITY_REGISTRY.md · seed 3 lini + line_code + akun dewi.printing · kredensial uji",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L frontend: LineFilter.jsx · masterFieldsConfig.js · editor Lini di Akun & Akses · line_code di form produk",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L frontend: penyaring lini di 12 layar (12/12 terukur audit)",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L verifikasi: audit --fase L SEMUA SELESAI · gate.sh --full HIJAU 85 gate · build FE bersih · berkas gaya nol perubahan",
+    "status": "completed"
+  },
+  {
+    "content": "FASE L uji layar lewat testing_agent_v3 (user story L.G 1–4 + 3 layar lama anti-regresi)",
+    "status": "in_progress"
+  },
+  {
+    "content": "FASE T: master process_stages (+Screen), enum/jembatan, migrasi, gate, POC, layar",
+    "status": "pending"
+  },
+  {
+    "content": "Perbarui plan.md / SESSION_HANDOFF.md / RENCANA_EKSEKUSI status fase",
+    "status": "pending"
+  }
+]
